@@ -5,5 +5,8 @@ Implements scoring algorithm for cardiac disease risk under homomorphic encrypti
 create_keys 
 - run this to create secret keys for encryption, key switching and bootstrap (may take several hours)
 
+test_basic 
+- test some basic (levelled) operations like addition, multiplication and negation (sign flip)
+
 test_cardio 
 - calculates score for cardiac disease risk according to algortihm under homorphic encryption
