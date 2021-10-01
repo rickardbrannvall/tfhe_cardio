@@ -10,3 +10,6 @@ test_basic
 
 test_cardio 
 - calculates score for cardiac disease risk according to algortihm under homorphic encryption
+
+References: 
+- S. Carpov, T. H. Nguyen, R. Sirdey, G. Constantino and F. Martinelli, "Practical Privacy-Preserving Medical Diagnosis Using Homomorphic Encryption," https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7820321 
